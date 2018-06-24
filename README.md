@@ -20,6 +20,8 @@ I need help with this. I need those people that have bookmark sites, PDFs, and o
 # The location
 I imagine using this Github project for this work...at least initially. The Wiki https://github.com/WebBreacher/orcs/wiki and Projects features can help organize and publish our content.
 
+We also have a private channel in the Rocket Chat https://osint.team server for discussions.
+
 # The image
 Gotta have an image for a project like "ORCS" so I present our mascot....until we change it.
 
