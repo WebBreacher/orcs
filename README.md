@@ -19,6 +19,5 @@ I need help with this. I need those people that have bookmark sites, PDFs, and o
 I imagine using this Github project for this work...at least initially. The Wiki https://github.com/WebBreacher/orcs/wiki and Projects features can help organize and publish our content.
 
 # The image
-Gottwa have an image for a project like "ORCS" so I present our mascot....until we change it.
-
-![ORCS Mascot](https://github.com/WebBreacher/orcs/blob/master/orc.png)
+Gotta have an image for a project like "ORCS" so I present our mascot....until we change it.
+<img style="height: 100px;" src="https://github.com/WebBreacher/orcs/blob/master/orc.png">
