@@ -1,5 +1,5 @@
-# orcs
-OSINT Resource Classification System
+# ORCS
+OSINT Resource Classification System: https://orcs.osint.ninja
 
 # What is this?
 This site is (hopefully) where a bunch of people will get together and create an OSINT Resource Classification System that can be used to systematically organize and refer to types of resources used in OSINT work.
