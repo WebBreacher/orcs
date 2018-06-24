@@ -5,7 +5,7 @@ OSINT Resource Classification System
 This site is (hopefully) where a bunch of people will get together and create an OSINT Resource Classification System that can be used to systematically organize and refer to types of resources used in OSINT work.
 
 # The problem
-If you look around the internet, you will see many resources showing links to a variety of web sites, tools, and documents that can be useful in OSINT/ThreatIntel/Recon work. The problem is that each site owner makes their own names for the categories. An example would be the ([https://start.me/p/b56G5Q/search-engines]) has 15 different types of search engines whereas ([http://osintframework.com/]) has about 10...and they do not overlap. So comparing "apples-to-apples" and looking for similar sites across these bookmark sites is extremely challenging. 
+If you look around the internet, you will see many resources showing links to a variety of web sites, tools, and documents that can be useful in OSINT/ThreatIntel/Recon work. The problem is that each site owner makes their own names for the categories. An example would be the [https://start.me/p/b56G5Q/search-engines](https://start.me/p/b56G5Q/search-engines) has 15 different types of search engines whereas ([http://osintframework.com/]) has about 10...and they do not overlap. So comparing "apples-to-apples" and looking for similar sites across these bookmark sites is extremely challenging. 
 
 # The solution
 I'm hoping that this site will serve as a central place for many of us to come together and begin making OSINT simpler by agreeing on standard categories and subcats for our resources.
