@@ -14,3 +14,6 @@ If this happens, sites like https://yoga.osint.ninja will be extremely powerful 
 
 # The plea
 I need help with this. I need those people that have bookmark sites, PDFs, and other resources to join up and make their voices heard (in a positive way). Participate and let's make something great together.
+
+# The location
+I imagine using this Github project for this work...at least initially. The Wiki (https://github.com/WebBreacher/orcs/wiki) and Projects features can help organize and publish our content.
