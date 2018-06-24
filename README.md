@@ -21,4 +21,4 @@ I imagine using this Github project for this work...at least initially. The Wiki
 # The image
 Gottwa have an image for a project like "ORCS" so I present our mascot....until we change it.
 
-![ORCS Mascot](orcs.png)
+![ORCS Mascot](https://github.com/WebBreacher/orcs/blob/master/orc.png)
