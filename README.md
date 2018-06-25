@@ -22,4 +22,4 @@ I imagine using this Github project for this work...at least initially. The Wiki
 
 We have a private channel in the Rocket Chat https://osint.team server for discussions.
 
-![Logo](orcs/ideas/orcs_logo.png)
+![Logo](https://raw.githubusercontent.com/WebBreacher/orcs/master/ideas/orcs_logo.png)
