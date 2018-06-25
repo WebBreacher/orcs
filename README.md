@@ -1,5 +1,7 @@
 # ORCS
-OSINT Resource Classification System: https://orcs.osint.ninja
+OSINT Resource Classification System
+  - https://orcs.osint.ninja
+  - https://github.com/WebBreacher/orcs
 
 # What is this?
 This site is (hopefully) where a bunch of people will get together and create an OSINT Resource Classification System that can be used to systematically organize and refer to types of resources used in OSINT work.
@@ -18,7 +20,4 @@ I need help with this. I need those people that have bookmark sites, PDFs, and o
 # The location
 I imagine using this Github project for this work...at least initially. The Wiki https://github.com/WebBreacher/orcs/wiki and Projects features can help organize and publish our content.
 
-# The image
-Gottwa have an image for a project like "ORCS" so I present our mascot....until we change it.
-
-![ORCS Mascot](https://github.com/WebBreacher/orcs/blob/master/orc.png)
+We have a private channel in the Rocket Chat https://osint.team server for discussions.
