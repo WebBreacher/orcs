@@ -23,3 +23,6 @@ I imagine using this Github project for this work...at least initially. The Wiki
 We have a private channel in the Rocket Chat https://osint.team server for discussions.
 
 <img height=414px width=323px src=https://raw.githubusercontent.com/WebBreacher/orcs/master/ideas/orcs_logo.png>
+
+# License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
