@@ -1,0 +1,46 @@
+{
+  "license" : ["Creative Commons Attribution-ShareAlike 4.0 International License",
+               "Copyright (c) 2018, Spotlight Infosec LLC.",
+               "This work is licensed under the Creative Commons",
+               "Attribution-ShareAlike 4.0 International License.",
+               "To view a copy of this license, visit",
+               "http://creativecommons.org/licenses/by-sa/4.0/ or",
+               "send a letter to Creative Commons, PO Box 1866,",
+               "Mountain View, CA 94042, USA.
+               "],
+  "contributors" : ["WebBreacher"],
+  "projectHome"  : "https://github.com/webbreacher/orcs",
+  "tags" : [
+     {
+        "name"          : "geography",
+        "abbreviation"  : "GEOG",
+        "description"   : "Geographic region that this resource contains info on",
+        "values"        : ["global","international","country","regional","local","other"],
+        ""
+     },
+     {
+        "name"          : "transportation",
+        "abbreviation"  : "TRNS",
+        "description"   : "Transportation resources",
+        "values"        : ["aircraft","ship","train","truck","auto","other"]
+     },
+     {
+        "name"          : "computerNetworking",
+        "abbreviation"  : "NETW",
+        "description"   : "Resources with data about computer networks",
+        "values"        : ["ip","domain","asn","netblock","service","other"]
+     },
+     {
+        "name"          : "searchEngine",
+        "abbreviation"  : "SRCH",
+        "description"   : "Search engines",
+        "values"        : ["general","people","image","computer","custom"]
+     },
+     {
+        "name"          : "dataTypesOutput",
+        "abbreviation"  : "DATO",
+        "description"   : "What data formats are returned from resource?",
+        "values"        : ["any","text","audio","video","image","files",""]
+     }
+   ]
+ }
